@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Umo</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **I am leading and mentoring a team at MauCreative Hub, focusing on delivering cutting-edge digital solutions and organizing technology upskilling bootcamps in Nigeria.**
+- 🔭 I’m currently **leading and mentoring a team at MauCreative Hub, focusing on delivering cutting-edge digital solutions and organizing technology upskilling bootcamps in Nigeria.**
 
-- 👯 I’m looking to collaborate on **I am open to collaborating on innovative web design, mobile app development projects, and educational programs aimed at empowering the next generation of tech talents**
+- 👯 I’m open to ** collaborating on innovative web design, mobile app development projects, and educational programs aimed at empowering the next generation of tech talents**
 
 - 📝 I write articles on [https://medium.com/@Emmanuelumo07](https://medium.com/@Emmanuelumo07)
 
-- 💬 Ask me about **Feel free to ask me about branding, web design, mobile app development, and strategies for digital entrepreneurship and marketing. I am also passionate about teaching and mentoring in the tech space.**
+- 💬 Feel free to ask me about **branding, web design, mobile app development, and strategies for digital entrepreneurship and marketing. I am also passionate about teaching and mentoring in the tech space.**
 
 - 📫 How to reach me **umoemmanuel92@gmail.com**
 
